@@ -1,2 +1,2 @@
-# PH_Ptyhon_Workshop_Colab
+# PH_Python_Workshop_Colab
 Panther Hackers Python Workshop Colab
