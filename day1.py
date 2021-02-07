@@ -35,10 +35,11 @@ Warn: This can lead to type mismatches if not careful
 a = 204
 print(a)
 
-#Floor division - This is interger divison in other languages. b/c by default in python 
+#Floor division - This is interger divison in other languages. b/c by default in python everything is floats
 print(4 // 3)
 
 # Mod - find the remainder
+b = 10
 print(a % b)
 print(4 % 3)
 
