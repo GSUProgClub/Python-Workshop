@@ -132,3 +132,9 @@ if 1 in setWithStuff:
 
 if 1 in listWithStuff:
     print(True)
+
+'''
+In this case the rin time of the 1st if statement is much faster as it is O(1) rather than O(n) of the 2nd one.
+This is becusae the 2nd one under the hood is individually checking if 1 is in the list while the 2nd one is using hashed values for quick turn around.
+'''
+
