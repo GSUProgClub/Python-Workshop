@@ -22,6 +22,10 @@ either you alwasys use whole numbers, cast a float to an int or use floors
 intExample = 1
 floatExample = 1.1
 
+'''
+check point question:
+will the following code error T/F?
+'''
 floatExample =  intExample - floatExample
 print(floatExample)
 
@@ -35,6 +39,12 @@ Warn: This can lead to type mismatches if not careful
 a = 204
 print(a)
 
+'''
+checkpoint question:
+will the following code give trailing 3s?
+'''
+print(4/3)
+
 #Floor division - This is interger divison in other languages. b/c by default in python everything is floats
 print(4 // 3)
 
@@ -42,6 +52,14 @@ print(4 // 3)
 b = 10
 print(a % b)
 print(4 % 3)
+
+'''
+checkpoint question:
+calcualte the volume of the prism:
+length: 4
+width: 3
+height: 2
+'''
 
 # Logic - how python assinges booleans
 a = 24
