@@ -6,14 +6,7 @@ object oriented python
 What is object oriented programming?
 -it is structuring you programming so that you are budling related properties and behaviors into objects
 -this won't be a OOP toutorial, but a OOP in python tutorial
-'''
 
-# you could represetnt some data for some items data you need to sore, but it is clunky
-# we can use objects instead and in python it is similar to how you would do it in other lanuages
-monster = ['orc', 23, 'guard', 4]
-human = ['human', 14, 'knight', 6]
-
-'''
 note to self make all this some powerpoint slides later
 
 
